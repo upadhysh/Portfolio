@@ -32,3 +32,14 @@ export const projects = [
     link: "https://pythonbootcamp.com",
   },
 ];
+
+export const skills = ['Communication', 'Tallent hunt'
+];
+
+export const testimonials = [
+  {
+    "image": "",
+    "name": "Me",
+    "company": "very big company name here like FB"
+  },
+];
